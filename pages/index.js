@@ -1,7 +1,7 @@
-import Layout from '../components/MyLayout.js'
-
-export default () => (
-  <Layout>
-    <p>Main page</p>
-  </Layout>
+const Index = () => (
+  <div>
+    <p>Hello Next.js</p>
+  </div>
 )
+
+export default Index

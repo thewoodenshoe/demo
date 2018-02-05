@@ -1,5 +1,5 @@
 {
-  "name": "demo-msg",
+  "name": "demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,9 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thewoodenshoe/demo.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thewoodenshoe/demo/issues"
+  },
+  "homepage": "https://github.com/thewoodenshoe/demo#readme",
   "dependencies": {
     "next": "^4.2.3",
     "react": "^16.2.0",
